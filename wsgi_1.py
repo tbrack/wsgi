@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import datetime
 
+
 default = "No Value Set"
 
 body = """<html>
